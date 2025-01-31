@@ -43,7 +43,7 @@ search = GoogleSearchAPIWrapper()
 ###############################################################################
 # CSV Reading and Writing
 ###############################################################################
-filename = "/Users/easwar-3198/Downloads/ACP comparison market analysis_Sheet1 (1).csv"
+filename = "input.csv"
 output_filename = "output.csv"
 competitor_name = "CyberArk"
 
